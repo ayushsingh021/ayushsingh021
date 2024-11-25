@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A passionate programmer from India having knowledge of full stack web development</h3>
 
-- 🔭 I’m currently working on [Backend Development](https://github.com/ayushsingh021/backendProject01.git)
+- 🔭 I’m currently working on [Full Stack Development](https://github.com/ayushsingh021/backendProject01.git)
 
 - 🌱 I’m currently learning **Node, MongoDB, Flutter and Provider state management**
 
